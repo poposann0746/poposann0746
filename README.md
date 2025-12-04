@@ -44,9 +44,8 @@ Ruby on Rails / JavaScript　を中心にポートフォリオを開発してい
     <!-- Streak stats -->
     <img src="https://streak-stats.demolab.com?user=poposann0746&theme=tokyonight&hide_border=false" height="160" />
     <img height="20" src="https://komarev.com/ghpvc/?username=poposann0746" />
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poposann0746&theme=dark)
 </a>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poposann0746&theme=dark)
 ---
 
 ## Study Badges (from TIL repo)
