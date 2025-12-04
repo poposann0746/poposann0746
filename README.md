@@ -40,12 +40,6 @@ Ruby on Rails / JavaScript　を中心にポートフォリオを開発してい
 
 ## My Stats
 
-<!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poposann0746&layout=compact&langs_count=8&theme=tokyonight" height="160" />
-
-<!-- GitHub stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=poposann0746&show_icons=true&count_private=true&hide=contribs&theme=tokyonight" height="160" />
-
 <!-- Streak stats -->
 <img src="https://streak-stats.demolab.com?user=poposann0746&theme=tokyonight&hide_border=false" height="160" />
 
