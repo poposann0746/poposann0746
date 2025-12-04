@@ -40,8 +40,11 @@ Ruby on Rails / JavaScript　を中心にポートフォリオを開発してい
 
 ## My Stats
 
-<!-- Streak stats -->
-<img src="https://streak-stats.demolab.com?user=poposann0746&theme=tokyonight&hide_border=false" height="160" />
+<a href="https://github.com/poposann0746">
+    <!-- Streak stats -->
+    <img src="https://streak-stats.demolab.com?user=poposann0746&theme=tokyonight&hide_border=false" height="160" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=poposann0746" />
+</a>
 
 ---
 
